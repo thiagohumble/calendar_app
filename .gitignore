@@ -33,6 +33,9 @@
 .vscode/*
 .ccls-cache
 
+#nodejs
+node_modules/
+
 #sinc
 *sync.ffs*
 
